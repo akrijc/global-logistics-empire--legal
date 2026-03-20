@@ -2,7 +2,7 @@
 
 Last updated: 20 March 2026
 
-These Terms of Use govern your use of **[YOUR APP NAME]** ("the App"). By downloading, accessing, or using the App, you agree to these Terms.
+These Terms of Use govern your use of **Global Logistics Empire Tycoon** ("the App"). By downloading, accessing, or using the App, you agree to these Terms.
 
 ## 1. Use of the App
 
@@ -31,7 +31,7 @@ Prices may vary by country, platform, taxes, and promotional offers. Current pri
 
 ## 4. Intellectual Property
 
-The App, including its design, text, graphics, code, logos, and content, is owned by **[YOUR NAME OR COMPANY]** unless otherwise stated.
+The App, including its design, text, graphics, code, logos, and content, is owned by **Jiří Černoch / Akrijsoft** unless otherwise stated.
 
 You may not copy, redistribute, modify, or exploit any part of the App except as allowed by law or with written permission.
 
@@ -54,7 +54,7 @@ To the maximum extent permitted by law, we make no warranties regarding:
 
 ## 7. Limitation of Liability
 
-To the maximum extent permitted by law, **[YOUR NAME OR COMPANY]** shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from the use of the App.
+To the maximum extent permitted by law, **Jiří Černoch / Akrijsoft** shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from the use of the App.
 
 ## 8. Termination
 
@@ -62,7 +62,7 @@ We may suspend or terminate access to the App if you violate these Terms or misu
 
 ## 9. Governing Law
 
-These Terms are governed by the laws of **[YOUR COUNTRY]**, unless mandatory local consumer law provides otherwise.
+These Terms are governed by the laws of **Czech Republic**, unless mandatory local consumer law provides otherwise.
 
 ## 10. Changes to the Terms
 
@@ -72,5 +72,6 @@ We may update these Terms from time to time. Continued use of the App after chan
 
 If you have any questions about these Terms, contact:
 
-**[YOUR NAME OR COMPANY]**  
-**Email:** [YOUR EMAIL]
+**Jiří Černoch / Akrijsoft**  
+**Email:** akrijsoft@gmail.com  
+**Country:** Czech Republic
