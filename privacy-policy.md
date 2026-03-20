@@ -2,7 +2,7 @@
 
 Last updated: 20 March 2026
 
-This Privacy Policy explains how **[YOUR APP NAME]** ("the App", "we", "us") collects, uses, and protects information when you use our mobile application.
+This Privacy Policy explains how **Global Logistics Empire Tycoon** ("the App", "we", "us") collects, uses, and protects information when you use our mobile application.
 
 ## 1. Information We Collect
 
@@ -72,7 +72,7 @@ Depending on your country or region, you may have the right to:
 - object to certain processing
 - withdraw consent where applicable
 
-To make a request, contact us at: **[YOUR EMAIL]**
+To make a request, contact us at: **akrijsoft@gmail.com**
 
 ## 8. Children
 
@@ -90,5 +90,6 @@ We may update this Privacy Policy from time to time. Updated versions will be po
 
 If you have any questions about this Privacy Policy, contact:
 
-**[YOUR NAME OR COMPANY]**  
-**Email:** [YOUR EMAIL]
+**Jiří Černoch / Akrijsoft**  
+**Email:** akrijsoft@gmail.com  
+**Country:** Czech Republic
